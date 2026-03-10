@@ -39,8 +39,8 @@ function Projects() {
       title: "Portfolio Website",
       description: "React + TailwindCSS + EmailJs",
       image: Picport,
-      demo: "https://demo.com",
-      github: "https://github.com/project3"
+      demo: "https://portfolio-website-five-sandy-15.vercel.app/",
+      github: "https://github.com/Surachet-arm/Portfolio-website"
     }
   ];
 
