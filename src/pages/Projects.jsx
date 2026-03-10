@@ -1,7 +1,7 @@
 // src/pages/Projects.jsx
 import ProjectCard from "../components/ProjectCard";
 import PicEcom from "../assets/ecom.png"
-import Picbooking from "../assets/booking.png"
+import Picbooking from "../assets/booking2.png"
 import PicTask from "../assets/task.png"
 import Picport from "../assets/port.png"
 
