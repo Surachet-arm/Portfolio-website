@@ -15,27 +15,6 @@ function Projects() {
       github: "https://github.com/Surachet-arm/ecommerce-website"
     },
     {
-      title: "Booking Website",
-      description: "React + tailwindCSS + Express + NodeJs + MongoDB",
-      image: Picbooking,
-      demo: "https://booking-system-seven-wine.vercel.app/",
-      github: "https://github.com/Surachet-arm/booking-system"
-    },
-    {
-      title: "Task-Manager System Website",
-      description: "React + tailwindCSS + Express + NodeJs + MongoDB",
-      image: PicTask,
-      demo: "https://task-management-system-hazel-one.vercel.app",
-      github: "https://github.com/Surachet-arm/task-management-system"
-    },
-    // {
-    //   title: "Dashboard Admin",
-    //   description: "React + tailwindCSS + Express + NodeJs + MongoDB",
-    //   image: "/projects/dashboard.png",
-    //   demo: "https://demo.com",
-    //   github: "https://github.com/project2"
-    // },
-    {
       title: "Portfolio Website",
       description: "React + TailwindCSS + EmailJs",
       image: Picport,
